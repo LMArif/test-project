@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0; padding: 0;
+    background: #fff0f5;
+    color: #444;
+  }
+  header {
+    background-color: mediumvioletred;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  nav {
+    margin-top: 10px;
+  }
+  nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  main {
+    padding: 40px;
+  }
+  
